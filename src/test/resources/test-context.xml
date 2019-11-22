@@ -217,7 +217,7 @@
 				<prop key="server.database.1">bookstore</prop>
 				<prop key="server.dbname.1">bookstore</prop>
 				<prop key="server.silent">true</prop>
-				<prop key="server.port">9012</prop>
+				<prop key="server.port">9014</prop>
 			</props>
 		</property>
 	</bean>
