@@ -42,7 +42,7 @@
 		<swagger-jaxrs.version>1.5.24</swagger-jaxrs.version>
 		<cxf.version>3.3.4</cxf.version>
 		<servlet.version>3.1.0</servlet.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<jstl.version>1.2.5</jstl.version>
 		<!-- not using hsqldb 2.5.0 because of https://sourceforge.net/p/hsqldb/bugs/1547/ -->
 		<hsqldb.version>2.4.1</hsqldb.version>
